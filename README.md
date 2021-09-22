@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- looking in Automation with Ansible for Cisco Products
+- Currently working on automating Cisco ISE rollouts from start to finish
 <!--
 **oliverl-21/oliverl-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
